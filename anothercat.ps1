@@ -1,4 +1,4 @@
-function powercat
+function anothercat
 {
   param(
     [alias("Client")][string]$c="",
